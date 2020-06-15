@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/monishmehmi/LWSS-OBC.git",
           "archiveFileName": "Light Weight Space Ship.zip",
-          "checksum": "SHA-256:64af01459c84271b8a209d0c3781aad3dacc57e51cb06e90e5712664242c7bc4",
-          "size": "6011682",
+          "checksum": "SHA-256:d81404de4e7cd925f8a3f90cc28c7b673ed6dd54e15454b2a22fb39a45467943",
+          "size": "6015669",
           "boards": [
             {"name": "LightWeightSpaceShio OBC"},
           ],
