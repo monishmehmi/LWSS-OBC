@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "Light Weight Space Ship OBC",
+      "maintainer": "Monish Mehmi",
+      "websiteURL": "https://github.com/monishmehmi/LWSS-OBC.git",
+      "email": "monishmehmi1998@gmail.com",
+      "help": {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
+        {
+          "name": "LWSS obc",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/monishmehmi/LWSS-OBC.git",
+          "archiveFileName": "Light Weight Space Ship.zip",
+          "checksum": "SHA-256:64af01459c84271b8a209d0c3781aad3dacc57e51cb06e90e5712664242c7bc4",
+          "size": "6011682",
+          "boards": [
+            {"name": "LightWeightSpaceShio OBC"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+     ],
+      "tools":[]
+    }
+  ]
+}
